@@ -1,5 +1,7 @@
 
-# EZGAME: Domain Specific Language for 2D Games made in Java
+# EZGAME: Domain Specific Language and Interpreter for 2D Games made in Java
+
+Look at Documentation.md for more information.
 
 ### Resources
 * Animal Pack sprites by Kenney.nl: https://kenney.nl/assets/animal-pack
